@@ -33,6 +33,7 @@ class _MyHomePageState extends State<MyHomePage> {
         elevation: 0.5,
         shadowColor: Colors.black,
         backgroundColor: Colors.white,
+        surfaceTintColor: Colors.white,
         title: Text(
           "HOME",
           style: textDecor.blackBold(),
